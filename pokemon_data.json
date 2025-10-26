@@ -1,0 +1,30 @@
+[
+  {
+    "No. Pokedex": "0001",
+    "Nombre": "Bulbasaur",
+    "Descripción": "Tras nacer, crece alimentándose durante un tiempo de los nutrientes que contiene el bulbo de su lomo.",
+    "Tipo": "Planta/Veneno",
+    "URL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png"
+  },
+  {
+    "No. Pokedex": "0002",
+    "Nombre": "Ivysaur",
+    "Descripción": "Cuanta más luz solar recibe, más aumenta su fuerza y más se desarrolla el capullo que tiene en el lomo.",
+    "Tipo": "Planta/Veneno",
+    "URL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png"
+  },
+  {
+    "No. Pokedex": "0003",
+    "Nombre": "Venusaur",
+    "Descripción": "Puede convertir la luz del sol en energía. Por esa razón, es más poderoso en verano.",
+    "Tipo": "Planta/Veneno",
+    "URL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png"
+  },
+  {
+    "No. Pokedex": "0004",
+    "Nombre": "Charmander",
+    "Descripción": "La llama de su cola indica su fuerza vital. Si está débil, la llama arderá más tenue.",
+    "Tipo": "Fuego",
+    "URL": "https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png"
+  }
+]
